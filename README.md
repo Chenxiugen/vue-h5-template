@@ -1,4 +1,4 @@
-# hxx-h5-login
+# vue-h5-template
 
 ## Project setup
 ```
